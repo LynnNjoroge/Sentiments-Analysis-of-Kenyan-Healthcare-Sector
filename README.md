@@ -22,17 +22,17 @@ The following steps were  followed in conducting this analysis:
 
 # Technologies Used
 
-Python
-Pandas Library
-Numpy Library
-Matplotlib Library
-Seaborn Library
-Standard Library
-SciPy Library
-Sci-Kit Library
-Plotly
-Tensorflow
-Keras
+1. Python
+2. Pandas Library
+3. Numpy Library
+4. Matplotlib Library
+5. Seaborn Library
+6. Standard Library
+7. SciPy Library
+8. Sci-Kit Library
+9. Plotly
+10. Tensorflow
+11. Keras
 
 # Setup
  
