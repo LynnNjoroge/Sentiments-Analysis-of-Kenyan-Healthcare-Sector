@@ -37,9 +37,13 @@ The following steps were  followed in conducting this analysis:
 # Contributors
 
 https://github.com/sgich
+
 https://github.com/cyruskimani
+
 https://github.com/sheilanasimiyu
+
 https://github.com/qadipo
+
 
 # Setup
  
