@@ -34,6 +34,13 @@ The following steps were  followed in conducting this analysis:
 10. Tensorflow
 11. Keras
 
+# Contributors
+
+https://github.com/sgich
+https://github.com/cyruskimani
+https://github.com/sheilanasimiyu
+https://github.com/qadipo
+
 # Setup
  
 The easiest way to run this code is to upload and run it in google colab. Alternatively , if you would like to run it on your local computer you should install jupyter notebook and import pandas and numpy library to be able to run the code.
