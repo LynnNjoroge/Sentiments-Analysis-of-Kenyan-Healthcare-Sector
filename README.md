@@ -3,6 +3,9 @@
 
 This project seeks to create predictive models that can effectively Predict the sentiment of a tweet about the Kenyan Healthcare sector.
 
+# Link
+Model Link: https://health-sentiment-analysis.herokuapp.com/
+
 # Motivation
 
 This project was done as part of an assessment for a Data Science Course
